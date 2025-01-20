@@ -3,12 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "7ad44a46af3b6ca96477914656325223",
+const RESOURCES = {"flutter_bootstrap.js": "3a142bdf5c6c4e5f96fc680f1d9151ce",
 "version.json": "bf4dde5a261148904742f4d8c640fb9d",
 "favicon.ico": "b7f2effdbb5ad1292cb82ad84252fee0",
 "index.html": "8d9d9a83d1fa112afe29f83c082e4ea8",
 "/": "8d9d9a83d1fa112afe29f83c082e4ea8",
-"main.dart.js": "f110a37418bec69a54a76baf4e78de83",
+"main.dart.js": "07dde9e44495c8f6581009a5f042c911",
 "flutter.js": "f393d3c16b631f36852323de8e583132",
 "icons/Icon-192.png": "4ded116a22dd487a5c42fd80f4d02ad0",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -29,7 +29,7 @@ const RESOURCES = {"flutter_bootstrap.js": "7ad44a46af3b6ca96477914656325223",
 "assets/lib/assets/videos/vid.mp4": "124d2504d722db98b679928bbc35c02c",
 "assets/AssetManifest.bin": "8c3c7ed5e6694c15962ec963bdbf67f9",
 "assets/fonts/alfont_com_AlFont_com_AvenirArabic-Medium.otf": "64adbfae6fb71353b934604552df3a26",
-"assets/fonts/MaterialIcons-Regular.otf": "6a1135df7fb11ed4fdd035d48e9cae9f",
+"assets/fonts/MaterialIcons-Regular.otf": "ca1016c75c7ab3ffa673a444780325d2",
 "canvaskit/skwasm.js": "694fda5704053957c2594de355805228",
 "canvaskit/skwasm.js.symbols": "262f4827a1317abb59d71d6c587a93e2",
 "canvaskit/canvaskit.js.symbols": "48c83a2ce573d9692e8d970e288d75f7",
